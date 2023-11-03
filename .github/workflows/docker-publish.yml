@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: torrent-stream-server
+  IMAGE_NAME: torrent-stream
 
 jobs:
   # Run tests.
